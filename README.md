@@ -1,1 +1,1 @@
-깃 사용
+sejinbaek.github.io
